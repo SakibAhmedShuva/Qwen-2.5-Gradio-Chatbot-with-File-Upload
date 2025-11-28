@@ -2,8 +2,6 @@
 
 This repository contains the code for a powerful and interactive chatbot built with Gradio, leveraging the Qwen-2.5-7B-Instruct model. The application provides a user-friendly web interface for conversational AI, enhanced with the capability to upload and analyze various file types, including PDFs, DOCX, and plain text.
 
-![Chatbot Screenshot](httpshttps://i.imgur.com/your-screenshot-url.png) <!-- It's highly recommended to add a screenshot of your running application -->
-
 ## Features
 
 -   **Interactive Chat Interface**: A clean and responsive chat UI built with Gradio.
